@@ -21,7 +21,7 @@ input = gets.chomp
 end
 
 def exit_jukebox
-  # This method is simple. It puts out: "Goodbye"
+  puts "Goodbye"
 end
 
 def run
