@@ -1,6 +1,6 @@
 # Add your code here
 def help
-  # This method should puts out the following:
+# This method should puts out the following:
 #   I accept the following commands:
 # - help : displays this help message
 # - list : displays a list of songs you can play
