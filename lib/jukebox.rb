@@ -32,7 +32,7 @@ end
 
 def run(songs)
   help
-    while true do
+  while true do
       puts "Please enter a command:"
       input = gets.chomp
         case input
@@ -50,4 +50,5 @@ def run(songs)
         end
       end
     end
+  end
 end
