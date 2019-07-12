@@ -1,4 +1,4 @@
-require_relative('lib/jukebox.rb')
+require_relative 'lib/jukebox.rb'
 require 'pry'
 def help
 puts "I accept the following commands:"
