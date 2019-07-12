@@ -1,4 +1,5 @@
-# Add your code here
+require load_file('lib/jukebox.rb')
+require 'pry'
 def help
 puts "I accept the following commands:"
 puts "- help : displays this help message"
@@ -15,7 +16,7 @@ end
 def play
 puts "Please enter a song name or number:"
 input = gets.chomp
-
+binding.pry
 
 
 end
