@@ -1,4 +1,4 @@
-require load_file('lib/jukebox.rb')
+require load('lib/jukebox.rb')
 require 'pry'
 def help
 puts "I accept the following commands:"
