@@ -14,7 +14,6 @@ def list
 end
 
 def play
-  binding.pry
 puts "Please enter a song name or number:"
 input = gets.chomp
 
